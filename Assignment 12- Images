@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Images in HTML</title>
+</head>
+<body>
+  <h1>Working with Images in HTML</h1>
+
+  <h2>My Favourite Nature Image</h2>
+  <img
+    src="https://picsum.photos/400/250"
+    alt="A sample nature photograph"
+    width="400"
+  >
+
+  <h2>About Images</h2>
+  <p>HTML uses the img tag to display images on a web page.</p>
+  <p>The alt attribute provides a text description of an image.</p>
+</body>
+</html>
